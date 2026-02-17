@@ -1,7 +1,5 @@
 package org.example
 
-
-
 fun main() {
     fun process(p: List<String>, a: Double, d: Boolean) {
         var t = 0.0
